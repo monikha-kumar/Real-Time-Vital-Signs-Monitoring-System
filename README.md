@@ -31,7 +31,7 @@ This system has been formally patented as an innovative
 IoT-based real-time vital signs monitoring solution.
 ## 👩‍💻 Developer
 **Monikha K** — Electronics & Instrumentation Engineer  
-SRM Valliammai Engineering College, Chennai   is it ok
+SRM Valliammai Engineering College, kattankulathur
 ## 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Monikha%20K-blue)](https://linkedin.com/in/monikha-k-9b3744275)
 [![GitHub](https://img.shields.io/badge/GitHub-monikha--kumar-black)](https://github.com/monikha-kumar)
